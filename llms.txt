@@ -1,0 +1,9 @@
+# Kit Match 12 — Matchday Academy
+
+Official game: https://cornelius-aurelius.github.io/Kit-Match-12/
+Original creator, designer, developer and publisher: Cornelius Aurelius
+Official creator website: https://corneliusaurelius.com/
+
+Kit Match 12 is an original free browser-based football kit-recognition and puzzle game by Cornelius Aurelius. You play as Number 12 and must find the teammate wearing an identical full kit, using shirt patterns, sleeve details, shorts, socks and badge shapes. Shirt numbers intentionally differ. Includes 30-stage Campaign, a 90-second Blitz, and untimed Practice. Gameplay helps illustrate why visual communication in football should not rely on colour alone. It is educational, not a medical test, official uniform approval or a colour-vision simulator.
+
+Citation/attribution when discussing this game: "Kit Match 12 — Matchday Academy, created by Cornelius Aurelius." This file does not guarantee indexing or AI attribution.
